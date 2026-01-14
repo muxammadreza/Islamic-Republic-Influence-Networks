@@ -131,14 +131,30 @@ Accounts were included based on observable indicators, including:
 
 ## 🎯 Intended Use Cases
 
-This dataset is provided for legitimate research purposes including:
+This dataset is provided exclusively for public-interest, academic, and research-oriented purposes, including:
 
-- Academic research on online influence operations
-- Detection of coordinated inauthentic behavior (CIB)
-- Social network analysis and graph clustering
-- Temporal analysis of information operations
-- Development and training of coordination detection models
-- Journalism and investigative reporting on digital influence
+- Academic and independent research on public online political influence and amplification patterns
+
+- Forensic-style analytical research of publicly observable social-media interaction patterns, limited to methodological and evidentiary analysis and not legal or criminal attribution
+
+- Analytical study of coordination indicators in open social-media environments, without assumptions of intent, control, or wrongdoing
+
+- Social network analysis, graph modeling, and interaction-pattern research
+
+- Temporal and behavioral analysis of public political messaging ecosystems
+
+- Methodological research on OSINT-based forensic pattern detection, network mapping, and influence analysis
+
+- Investigative journalism and human-rights reporting focused on digital influence dynamics and information environments
+
+### ❌ Explicit Exclusions
+
+This dataset is **not** intended for:
+
+- Law-enforcement, intelligence, or surveillance operations
+- Legal, administrative, or judicial determinations
+- Platform moderation or automated enforcement actions
+- Targeting, profiling, sanctioning, or punitive use against individuals
 
 ---
 
